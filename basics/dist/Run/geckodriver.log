@@ -1,0 +1,30 @@
+1622505932766	geckodriver	INFO	Listening on 127.0.0.1:55193
+1622505935851	mozrunner::runner	INFO	Running command: "C:\\Users\\Home\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Home\\AppData\\Local\\Temp\\rust_mozprofilexBDBql"
+1622505936225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622505938071	Marionette	INFO	Listening on port 55201
+1622505938520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622505956489	Marionette	INFO	Stopped listening on port 55201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622505957037	geckodriver	INFO	Listening on 127.0.0.1:55272
+1622505960093	mozrunner::runner	INFO	Running command: "C:\\Users\\Home\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Home\\AppData\\Local\\Temp\\rust_mozprofile8dGibA"
+1622505960466	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622505962323	Marionette	INFO	Listening on port 55280
+1622505962770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622505994216	Marionette	INFO	Stopped listening on port 55280
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622505994786	geckodriver	INFO	Listening on 127.0.0.1:55377
+1622505997856	mozrunner::runner	INFO	Running command: "C:\\Users\\Home\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Home\\AppData\\Local\\Temp\\rust_mozprofilefI6VgX"
+1622505998229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622506000099	Marionette	INFO	Listening on port 55385
+1622506000531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622506028231	Marionette	INFO	Stopped listening on port 55385
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
